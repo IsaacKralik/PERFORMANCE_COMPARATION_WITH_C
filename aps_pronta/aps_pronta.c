@@ -106,7 +106,7 @@ int insertionSort(int *array, int tamanho) {
 
 int main() {
     
-    const char *nomesArquivos[] = {"1.txt", "2.txt","3.txt", "4.txt", "5.txt", "6.txt","7.txt", "8.txt","100.txt" ,"200.txt" ,"500.txt" ,"1000.txt" , "2500.txt", "5000.txt", "7500.txt", "10000.txt", "50000.txt"};
+    const char *nomesArquivos[] = {"1.txt", "2.txt","3.txt", "4.txt", "5.txt", "6.txt","7.txt","100.txt" ,"200.txt" ,"500.txt" ,"1000.txt" , "2500.txt", "5000.txt", "7500.txt", "10000.txt", "50000.txt"};
     int numArquivos = sizeof(nomesArquivos) / sizeof(nomesArquivos[0]);
 
     struct FileInfo *informacoesArquivos = malloc(numArquivos * sizeof(struct FileInfo));
