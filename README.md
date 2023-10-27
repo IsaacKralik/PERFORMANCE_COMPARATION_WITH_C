@@ -8,7 +8,14 @@ do quarto semestre, do curso Ciência da Computação.
 O objetivo deste comparador é fazer a ordenação de dados,através dos métodos simples BubbleSort e InsertionSort e do método eficaz MergeSort.
 Através da ordenação, conta-se a quantidade de iterações realizadas por cada método e por fim gera-se o gráfico com o comparativo entre eles. 
 
-## Instalação
+## :wrench: Tecnologias utilizadas
+* Linguagem C
+* IDE VSCODE
+* MinGW
+* EXCEL
+* GNUPLOT
+  
+## :rocket: Rodando o projeto
 Para testar e rodar o programa desenvolvido, é necessário seguir os passos a seguir:
 - INSTALAR A IDE VSCODE PARA PODERMOS TESTAR E VERIFICAR O CÓDIGO 
 - INSTALAR INTELLISENSE C/C++ FROM MICROSOFT NO VSCODE
@@ -21,6 +28,11 @@ AVANÇADO E VARIAVEIS DO AMBIENTE, CLICAR EM VARIAVEIS DO AMBIENTE EM PATH E EDI
 - PARA VERIFICAR A INSTALAÇÃO, ABRA O CMD E DIGITE G++ --VERSION.
 
 Caso tenha duvidas, siga o tutorial disponibilizado pelo prof. no [youtube](https://www.youtube.com/watch?v=RJ4ta9mjrWc)
+
+- Caso queira rodar APS_Prog_1: criar uma pasta vazia (por exemplo, na área de trabalho), baixar o arquivo APS_Prog_1.c e a pasta APS_PROG_1/output, colocar ambos dentro da pasta nova e renomear a pasta APS_PROG_1/output para apenas output. Executar através do VSCODE o arquivo C baixado através da tecla F6.
+
+- Caso queira rodar APS_pronta: Baixar a pasta APS_pronta e executar através do VSCODE o arquivo C baixado através da tecla F6.
+
 ## :books: Funcionalidades
 
 * <b>Funcionalidade 1</b>: APS_Prog_1 funciona selecionando apenas 1 arquivo de dados, o qual precisa estar com nome de nomeArquivo.txt para o programa reconhecer, dentro da pasta Output gerada ao executar o arquivo em C.
@@ -32,12 +44,26 @@ Caso opte por rodar o programa novamente, selecione através do menu interativo 
 Todos os dados serão lidos, contados e ordenados através do método, gerando um gráfico da quantidade de dados x iteração para o usuário final.
 Caso queira fazer nova ordenação utilizando outro método, o programa entrará em looping através do while.
 
-## Utilização
-- Caso queira rodar APS_Prog_1: criar uma pasta vazia (por exemplo, na área de trabalho), baixar o arquivo APS_Prog_1.c e a pasta APS_PROG_1/output, colocar ambos dentro da pasta nova e renomear a pasta APS_PROG_1/output para apenas output. Executar através do VSCODE o arquivo C baixado através da tecla F6.
-
-- Caso queira rodar APS_pronta: Baixar a pasta APS_pronta e executar através do VSCODE o arquivo C baixado através da tecla F6.
+## :soon: Implementação futura
+* <b>GNUPLOT</b>: Com o desenvolvimento do projeto e com os resultados parciais obtidos, inicialmente foi gerado gráficos comparativos através do Excel para análise desses dados. Como implementação à ser feita, queremos implementar a ferramente GNUPLOT dentro do nosso código, para assim que obtivermos os resultados comparativos, apresentar diretamente ao usuário tais dados de uma forma mais amigável, através de gráficos e tabelas interativas. 
 
 ## Autores
 - [@ToxicOtter](https://github.com/ToxicOtter)
 - [@IsaacKralik](https://github.com/IsaacKralik)
 - [@João](https://www.linkedin.com/in/joão-cardoso-769a531b9/)
+
+- ## :handshake: Colaboradores
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ToxicOtter">
+        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Toxic Otter no GitHub"/><br>
+        <sub>
+          <b>Luan Lima Lopes</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## :dart: Status do projeto
