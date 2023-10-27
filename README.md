@@ -47,7 +47,7 @@ Caso queira fazer nova ordenação utilizando outro método, o programa entrará
 ## :soon: Implementação futura
 * <b>GNUPLOT</b>: Com o desenvolvimento do projeto e com os resultados parciais obtidos, inicialmente foi gerado gráficos comparativos através do Excel para análise desses dados. Como implementação à ser feita, queremos implementar a ferramente GNUPLOT dentro do nosso código, para assim que obtivermos os resultados comparativos, apresentar diretamente ao usuário tais dados de uma forma mais amigável, através de gráficos e tabelas interativas. 
 
-- ## :handshake: Colaboradores
+## :handshake: Colaboradores
 <table>
   <tr>
     <td align="center">
