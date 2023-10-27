@@ -1,6 +1,6 @@
-#<h1 align="center">:file_cabinet: Comparador de Performance em C</h1> 
+<h1 align="center">:file_cabinet: Comparador de Performance em C</h1> 
 
-Bem vindo à pasta correspondente ao comparador dos métodos de iterações.
+## :memo: Bem vindo à pasta correspondente ao comparador dos métodos de iterações.
 
 Este comparador foi desenvolvido como parte da Atividade Prática Supervisionada
 do quarto semestre, do curso Ciência da Computação.
