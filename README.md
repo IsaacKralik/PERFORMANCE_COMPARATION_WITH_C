@@ -63,7 +63,16 @@ Caso queira fazer nova ordenação utilizando outro método, o programa entrará
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/IsaacKralik">
+        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Isaac Kralik no GitHub"/><br>
+        <sub>
+          <b>Isaac Kralik</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
+
 
 ## :dart: Status do projeto
