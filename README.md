@@ -47,11 +47,6 @@ Caso queira fazer nova ordenação utilizando outro método, o programa entrará
 ## :soon: Implementação futura
 * <b>GNUPLOT</b>: Com o desenvolvimento do projeto e com os resultados parciais obtidos, inicialmente foi gerado gráficos comparativos através do Excel para análise desses dados. Como implementação à ser feita, queremos implementar a ferramente GNUPLOT dentro do nosso código, para assim que obtivermos os resultados comparativos, apresentar diretamente ao usuário tais dados de uma forma mais amigável, através de gráficos e tabelas interativas. 
 
-## Autores
-- [@ToxicOtter](https://github.com/ToxicOtter)
-- [@IsaacKralik](https://github.com/IsaacKralik)
-- [@João](https://www.linkedin.com/in/joão-cardoso-769a531b9/)
-
 - ## :handshake: Colaboradores
 <table>
   <tr>
@@ -68,6 +63,14 @@ Caso queira fazer nova ordenação utilizando outro método, o programa entrará
         <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Isaac Kralik no GitHub"/><br>
         <sub>
           <b>Isaac Kralik</b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://www.linkedin.com/in/joão-cardoso-769a531b9/">
+        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de João Augusto no GitHub"/><br>
+        <sub>
+          <b>João Augusto</b>
         </sub>
       </a>
     </td>
