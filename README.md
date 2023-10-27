@@ -1,4 +1,4 @@
-# Comparador de Performance em C
+#<h1 align="center">:file_cabinet: Comparador de Performance em C</h1> 
 
 Bem vindo à pasta correspondente ao comparador dos métodos de iterações.
 
