@@ -79,3 +79,5 @@ Caso queira fazer nova ordenação utilizando outro método, o programa entrará
 
 
 ## :dart: Status do projeto
+* <b>Projeto finalizado</b>: Projeto atendendo os requisitos necessários e propostos para seu desenvolvimento
+* <b>Em Desenvolvimento para implementações futuras</b>: Transformar o projeto em mais amigável para o usuário, com os resultados sendo gerados através do GNUPLOT com gráficos e tabelas.
