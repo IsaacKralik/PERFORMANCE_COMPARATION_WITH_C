@@ -21,12 +21,13 @@ AVANÇADO E VARIAVEIS DO AMBIENTE, CLICAR EM VARIAVEIS DO AMBIENTE EM PATH E EDI
 - PARA VERIFICAR A INSTALAÇÃO, ABRA O CMD E DIGITE G++ --VERSION.
 
 Caso tenha duvidas, siga o tutorial disponibilizado pelo prof. no [youtube](https://www.youtube.com/watch?v=RJ4ta9mjrWc)
-## Funcionamento
-- APS_Prog_1 funciona selecionando apenas 1 arquivo de dados, o qual precisa estar com nome de nomeArquivo.txt para o programa reconhecer, dentro da pasta Output gerada ao executar o arquivo em C.
+## :books: Funcionalidades
+
+* <b>Funcionalidade 1</b>: APS_Prog_1 funciona selecionando apenas 1 arquivo de dados, o qual precisa estar com nome de nomeArquivo.txt para o programa reconhecer, dentro da pasta Output gerada ao executar o arquivo em C.
 Ele ordena esses dados, conta as iterações e por fim, gera um .txt com nome fixo com os dados ordenados.
 Por fim, abrir o código disponibilizado e executar dentro do vscode na opção F6.
 
-- O arquivo APS_pronta disponível nesse repositório (pasta do repositório), irá rodar e ler todos os arquivos .txt que encontram-se dentro da pasta Output com os nomes específicos que deixamos. Ele irá ler todos, contar a quantidade de dados de cada, voltar do início, ordena-los e contar a quantidade de iterações que realizou para fazer tal operação. Tais dados se relacionam através do Struct criado dentro do código. 
+* <b>Funcionalidade 2</b>: O arquivo APS_pronta disponível nesse repositório (pasta do repositório), irá rodar e ler todos os arquivos .txt que encontram-se dentro da pasta Output com os nomes específicos que deixamos. Ele irá ler todos, contar a quantidade de dados de cada, voltar do início, ordena-los e contar a quantidade de iterações que realizou para fazer tal operação. Tais dados se relacionam através do Struct criado dentro do código. 
 Caso opte por rodar o programa novamente, selecione através do menu interativo o tipo de método escolhido para ordenação.
 Todos os dados serão lidos, contados e ordenados através do método, gerando um gráfico da quantidade de dados x iteração para o usuário final.
 Caso queira fazer nova ordenação utilizando outro método, o programa entrará em looping através do while.
