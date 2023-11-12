@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 // Estrutura para armazenar informações de arquivo
 struct FileInfo {
     const char *nomeArquivo;
@@ -105,10 +106,7 @@ int insertionSort(int *array, int tamanho) {
 }
 
 int main() {
-
-    //1,2,3,4.txt = Arquivos em ordem crescente com tamanhos variados
-    //5,6,7.txt = arquivos em ordem decrescente com tamanhos variados
-    //Demais arquivos são em ordem aleatórias e tamanhos variados.
+    
     const char *nomesArquivos[] = {"1.txt", "2.txt","3.txt", "4.txt", "5.txt", "6.txt","7.txt","100.txt" ,"200.txt" ,"500.txt" ,"1000.txt" , "2500.txt", "5000.txt", "7500.txt", "10000.txt", "50000.txt"};
     int numArquivos = sizeof(nomesArquivos) / sizeof(nomesArquivos[0]);
 
@@ -121,10 +119,24 @@ int main() {
     int escolha;
     
     while (1) {
-        printf("Escolha o algoritmo de ordenacao:\n1. Bubble Sort\n2. Insertion Sort\n3. Merge Sort\n4. Sair\n");
-        scanf("%d", &escolha);
+            printf("--------------------------------------------------------------------------------------------------\n");
+            printf("|                                                                                                |\n");
+            printf("|                                                                                                |\n");
+            printf("|                                                                                                |\n");
+            printf("|                        Qual ordenacao voce gostaria de utilizar?                               |\n|                        1)BubbleSort   2)InsertionSort   3)MergeSort   4)Sair                   |\n");
+            printf("|                                                                                                |\n");
+            printf("|                                                                                                |\n");
+            printf("|                                                                                                |\n");
+            printf("--------------------------------------------------------------------------------------------------\n");
+            scanf("%d", &escolha);
 
         if (escolha == 4) {
+            printf("--------------------------------------------------------------------------------------------------\n");
+            printf("|                                                                                                |\n");
+            printf("|                                                                                                |\n");
+            printf("|                          Obrigado por utilizar nosso ordenador.                                |\n");
+            printf("|                                                                                                |\n");
+            printf("--------------------------------------------------------------------------------------------------\n");
             break;
         }
 
